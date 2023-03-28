@@ -1,4 +1,4 @@
-# Module_20_Challenge
+# ETH Savings Account
 Goal: To automate the creation of a joint savings account to hold Ethereum. To accomplish this we will use Solidity to mimic an Ethereum-compatible blockchain. The resulting program will allow us to create the savings account, deposit ETH, and withdraw ETH, as well as keep logs off the previous transactions. 
 
 ---
